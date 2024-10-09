@@ -8,4 +8,4 @@ try :
     else :
         print("Cette personne s'appelle " + prenom + " Elle a" + age + " et elle n'est pas étudiante")
 except ValueError :
-    print("Vous auriez du répondre par 1 ou2 répondre par 1 ou 2")
+    print("Vous auriez du répondre par 1 ou 2")
